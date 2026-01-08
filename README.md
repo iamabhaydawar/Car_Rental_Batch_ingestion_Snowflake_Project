@@ -1,3 +1,5 @@
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 # 🚗 Car Rental Batch Ingestion Project
 
 ## 📋 Project Overview
